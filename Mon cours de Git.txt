@@ -1,1 +1,16 @@
-COURS de Git par Thomas
+COURS de Git par Thomas:
+
+git init
+
+git status
+
+git add *
+
+git commit -m "first commit"
+
+git remote add origin <link>
+
+git remote -v
+
+git push (git push --set-upstream origin master)
+
